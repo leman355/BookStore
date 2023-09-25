@@ -253,3 +253,5 @@ C:\Users\user\source\repos\BookStore\BookStore\obj\Debug\net7.0\refint\BookStore
 C:\Users\user\source\repos\BookStore\BookStore\obj\Debug\net7.0\BookStore.pdb
 C:\Users\user\source\repos\BookStore\BookStore\obj\Debug\net7.0\BookStore.genruntimeconfig.cache
 C:\Users\user\source\repos\BookStore\BookStore\obj\Debug\net7.0\ref\BookStore.dll
+C:\Users\user\source\repos\BookStore\BookStore\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\user\source\repos\BookStore\BookStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
